@@ -1,0 +1,16 @@
+Image_ID,Plant_Type,Leaf_Spots,Discoloration,Wilting,Stunted_Growth,Disease_Present
+IMG001,Maize,1,1,0,0,1
+IMG002,Maize,0,0,0,0,0
+IMG003,Cassava,1,1,1,1,1
+IMG004,Maize,0,1,0,0,1
+IMG005,Cassava,0,0,0,0,0
+IMG006,Maize,1,0,0,0,1
+IMG007,Cassava,0,0,1,0,1
+IMG008,Maize,0,0,0,0,0
+IMG009,Cassava,1,1,1,0,1
+IMG010,Maize,0,0,0,0,0
+IMG011,Maize,1,0,0,1,1
+IMG012,Cassava,0,0,0,0,0
+IMG013,Maize,0,1,0,0,1
+IMG014,Cassava,1,1,0,0,1
+IMG015,Maize,0,0,0,0,0
