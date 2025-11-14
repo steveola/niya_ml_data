@@ -1,0 +1,16 @@
+size_sqft,number_of_bedrooms,location,age_years,price_millions
+1200,3,Mainland,5,45.2
+800,2,Mainland,15,28.7
+1500,4,Island,2,78.5
+950,2,Mainland,20,32.1
+1800,4,Island,1,95.0
+1100,3,Mainland,8,52.3
+1350,3,Island,4,68.9
+700,1,Mainland,25,22.4
+1650,4,Island,3,88.7
+1000,2,Mainland,12,38.6
+1400,3,Island,5,72.1
+850,2,Mainland,18,29.8
+1900,5,Island,1,110.5
+1250,3,Mainland,7,48.9
+750,1,Mainland,22,24.3

@@ -1,0 +1,16 @@
+CustomerID,Age,AnnualIncome_Naira,SpendingScore,City,Gender
+C001,35,4800000,85,Lagos,Male
+C002,45,7500000,23,Abuja,Female
+C003,28,3200000,65,PortHarcourt,Male
+C004,50,9200000,15,Lagos,Female
+C005,32,2800000,78,Lagos,Male
+C006,41,6100000,32,Abuja,Female
+C007,26,2500000,88,PortHarcourt,Male
+C008,38,5400000,45,Lagos,Female
+C009,29,3100000,72,Abuja,Male
+C010,47,6800000,28,Lagos,Female
+C011,33,3700000,81,PortHarcourt,Male
+C012,52,8500000,12,Abuja,Female
+C013,31,2900000,79,Lagos,Male
+C014,44,5900000,38,PortHarcourt,Female
+C015,27,2600000,84,Lagos,Male
